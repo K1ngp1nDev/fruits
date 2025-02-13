@@ -1,5 +1,8 @@
 # Fruit Explorer 🍏🍎🍇🍋🟩
 
+# Deployed on Vercel: 
+# https://fruits-wheat.vercel.app
+
 Fruit Explorer is a single-page application (SPA) built with [Nuxt 3](https://nuxt.com/) using `<script setup lang="ts">` and [Pinia](https://pinia.vuejs.org/) for state management. The application allows users to:
 
 - View fruit cards displaying nutritional information.
